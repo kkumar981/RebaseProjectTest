@@ -6,6 +6,8 @@ public class RebaseTest {
 		System.out.println("Hi Git");
 		System.out.println("First commit from Master");
 		System.out.println("Second commit from Master");
+		System.out.println("First commit from Future Branch");
+		
 	}
 
 }
